@@ -1,0 +1,3 @@
+following is the trained neural network for emotion classification . Fork and use with appropriate data .
+**since it exceeds git limit for file storage , a public drive link is provided please refer to the link and download the corresponding model from drive directly.**
+LINK : https://drive.google.com/drive/folders/16-QATs_mwTutjCie4oeEbeOM_1ODrd61?usp=sharing
